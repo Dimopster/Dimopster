@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="GIF/banner.jpg" alt="Анимированный баннер" width="100%">
+  <img src="gif/banner.jpg" alt="Анимированный баннер" width="100%">
 </div>
 
 <h1 align="center">
-  <img src="GIF/penguin.gif" width="40px"/>
+  <img src="gif/penguin.gif" width="40px"/>
     𝐇𝐞𝐥𝐥𝐨, &lt;everynyan/&gt;!
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="40px" style="vertical-align: text-bottom;" />
 </h1>
@@ -25,8 +25,3 @@
 
 ## 🛠️ TECHNICAL SKILLS 🛠️
 
-**Языки программирования:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
