@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <img src="GIF/banner.jpg" alt="Анимированный баннер" width="100%">
+</div>
 
-<!--
-**Dimopster/Dimopster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="GIF/penguin.gif" width="40px"/>
+    𝐇𝐞𝐥𝐥𝐨, &lt;everynyan/&gt;!
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="40px" style="vertical-align: text-bottom;" />
+</h1>
 
-Here are some ideas to get you started:
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.gif" width="34px" style="vertical-align: text-bottom;" /> About Me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-size:20px"><h2>I’m Dmitry — and here’s my lore 👾</h2> </p>
+
+<p style="font-size:18px">
+- 🎓 University guy, still pretending I know what’s going on. . . <br>
+- 💾 C++ is not just a language, it’s a lifestyle. (yes, I dream in pointers) <br>
+- ⚡ Favorite bug-fix strategy: <code>sudo rm -rf /</code> (try this one!) <br>
+- 🐧 Linux enjoyer (still googling *“how to exit vim”*) <br>
+- 🧠 Who endlessly allocates memory?... (me 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Supervillain%20Light%20Skin%20Tone.png" 
+  alt="Man Supervillain Light Skin Tone" width="25" height="25" style="vertical-align: text-bottom;" />)
+</p>
+
+
+## 🛠️ TECHNICAL SKILLS 🛠️
+
+**Языки программирования:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
