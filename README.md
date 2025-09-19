@@ -163,6 +163,9 @@
 <div style="margin-top: -20px;">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
-тут будет литкод
 
-  <img src="gif/stack.gif" width="250" />
+<div style="display: flex; justify-content: center; gap: 40px; align-items: flex-start;">
+  <img src="gif/leetcode.png" width="250" style="margin-top: 50px;" />
+  <img src="gif/stack.gif" width="250" style="margin-bottom: 10px;" />
+</div>
+
