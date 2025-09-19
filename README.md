@@ -11,31 +11,33 @@
  <p style=""><h2 style="border-bottom:none; font-size:34px"> About Me 👨‍💻</h2> </p>
 
 <p style=""><h2 style="border-bottom:none; font-size:28px">I’m Dmitry — and here’s my lore 👾</h2> </p>
-
-<p style="font-size:24px">
-- 🎓 University guy, still pretending I know what’s going on. . . <br>
-- 💾 C++ is not just a language, it’s a lifestyle. (yes, I dream in pointers) <br>
-- ⚡ Favorite bug-fix strategy: <code>sudo rm -rf /</code> (try this one!) <br>
-- 🐧 Linux enjoyer (still googling <code>“how to exit vim”</code>) <br>
-- 🧠 Who endlessly allocates memory?. . . (me 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Supervillain%20Light%20Skin%20Tone.png" 
-  alt="Man Supervillain Light Skin Tone" width="25" height="25" style="vertical-align: text-bottom;" />)
-</p>
-
+<div>
+    <p style="font-size:24px">
+    - 🎓 University guy, still pretending I know what’s going on. . . <br>
+    - 💾 C++ is not just a language, it’s a lifestyle. (yes, I dream in pointers) <br>
+    - ⚡ Favorite bug-fix strategy: <code>sudo rm -rf /</code> (try this one!) <br>
+    - 🐧 Linux enjoyer (still googling <code>“how to exit vim”</code>) <br>
+    - 🧠 Who endlessly allocates memory?. . . (me 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Supervillain%20Light%20Skin%20Tone.png" 
+    alt="Man Supervillain Light Skin Tone" width="25" height="25" style="vertical-align: text-bottom;" />)
+    </p>
+</div>
 
 <div>
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-<p align="center" style="font-size:34px; font-weight:bold; margin-top:-15px; margin-bottom:10px;">
-  💻 TECHNICAL SKILLS 💻
-</p>
+<div>
+    <p align="center" style="font-size: 34px;"><strong>💻 TECHNICAL SKILLS 💻</strong></p>
+</div>
 
 <div style="margin-top: -35px;">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-<p style="font-size: 24px;">Main programming languages:</p>
+<div>
+    <p style="font-size: 24px;">Main programming languages:</p>
+</div>
 
 <div align="center">
   <table style="border-spacing: 90px; border: none;" border="0">
@@ -160,19 +162,28 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-<p align="center" style="font-size:34px; font-weight:bold; margin-top:-15px; margin-bottom:10px;">
-  🏆 STATS 🏆
-</p>
+<div>
+    <p align="center" style="font-size: 34px;"><strong>🏆 STATS 🏆</strong></p>
+</div>
 
 <div style="margin-top: -35px;">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width:100%;">
-  <a href="https://leetcode.com/u/_DimON_/" target="_blank">
-  <img src="gif/leetcode.png" width="250" style="margin-top: 50px;" alt="LeetCode Profile" />
-</a>
-  <img src="gif/stack.gif" width="310" style="margin-bottom: 10px;" />
+<div align="center">
+  <table style="border-spacing: 90px; border: none;" border="0">
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://leetcode.com/u/_DimON_/" target="_blank">
+          <img src="gif/leetcode.png" width="250" style="margin-top: 50px;" alt="LeetCode Profile" />
+        </a>
+      </td>
+      <td width="50" style="border: none;"></td>
+      <td align="center" style="border: none;">
+        <img src="gif/stack.gif" width="310" style="margin-bottom: 10px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
