@@ -2,17 +2,17 @@
   <img src="gif/banner.jpg" alt="Анимированный баннер" width="100%">
 </div>
 
-<h1 align="center">
+<h1 align="center" style="font-size:40px">
   <img src="gif/penguin.gif" width="40px"/>
     𝐇𝐞𝐥𝐥𝐨, &lt;everynyan/&gt;!
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="40px" style="vertical-align: text-bottom;" />
 </h1>
 
-# About Me 👨‍💻
+ <p style=""><h2 style="border-bottom:none; font-size:34px"> About Me 👨‍💻</h2> </p>
 
-<p style="font-size:20px"><h2>I’m Dmitry — and here’s my lore 👾</h2> </p>
+<p style=""><h2 style="border-bottom:none; font-size:28px">I’m Dmitry — and here’s my lore 👾</h2> </p>
 
-<p style="font-size:18px">
+<p style="font-size:24px">
 - 🎓 University guy, still pretending I know what’s going on. . . <br>
 - 💾 C++ is not just a language, it’s a lifestyle. (yes, I dream in pointers) <br>
 - ⚡ Favorite bug-fix strategy: <code>sudo rm -rf /</code> (try this one!) <br>
@@ -27,128 +27,130 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-## <p align="center">🛠️ TECHNICAL SKILLS 🛠️</p>
+<p align="center" style="font-size:34px; font-weight:bold; margin-top:-15px; margin-bottom:10px;">
+  💻 TECHNICAL SKILLS 💻
+</p>
 
-<div style="margin-top: -20px;">
+<div style="margin-top: -35px;">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-<p style="font-size: 18px;">Main programming languages:</p>
+<p style="font-size: 24px;">Main programming languages:</p>
 
 <div align="center">
-  <table style="border-spacing: 90px;">
+  <table style="border-spacing: 90px; border: none;" border="0">
     <tr>
-      <td align="center">
-        <img src="gif/c_picture.png" width="150" />
+      <td align="center" style="border: none;">
+        <img src="gif/c_picture.png" width="180" />
         <br>
       </td>
-      <td width="50"></td>
-      <td align="center">
-        <img src="gif/cpp_picture.svg" width="150" />
+      <td width="50" style="border: none;"></td>
+      <td align="center" style="border: none;">
+        <img src="gif/cpp_picture.svg" width="180" />
         <br>
       </td>
     </tr>
   </table>
 </div>
 
-<p style="font-size: 18px;">Additional tools:</p>
+<p style="font-size: 24px;">Additional tools:</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
+  <table style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/python-original.svg" width="48" height="48" alt="Python" />
+          <img src="gif/python-original.svg" width="60" height="60" alt="Python" />
         </a>
-        <br>Python
+        <br><p style="font-size: 18px;">Python</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/qt-original.svg" width="48" height="48" alt="Qt" />
+          <img src="gif/qt-original.svg" width="60" height="60" alt="Qt" />
         </a>
-        <br>Qt
+        <br><p style="font-size: 18px;">Qt</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/ruby-original.svg" width="48" height="48" alt="Ruby" />
+          <img src="gif/ruby-original.svg" width="60" height="60" alt="Ruby" />
         </a>
-        <br>Ruby
+        <br><p style="font-size: 18px;">Ruby</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/swift-original.svg" width="48" height="48" alt="Swift" />
+          <img src="gif/swift-original.svg" width="60" height="60" alt="Swift" />
         </a>
-        <br>Swift
+        <br><p style="font-size: 18px;">Swift</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/assembler.png" width="58" height="58" alt="Assembler" />
+          <img src="gif/assembler.png" width="60" height="60" alt="Assembler" />
         </a>
-        <br><p>Assembler</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="gif/html5-original.svg" width="48" height="48" alt="HTML" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="gif/css3-original.svg" width="48" height="48" alt="CSS" />
-        </a>
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="gif/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="gif/rails-original-wordmark.svg" width="48" height="48" alt="RoR" />
-        </a>
-        <br>RoR
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="gif/django.webp" width="48" height="48" alt="Django" style="border-radius: 5px;" />
-        </a>
-        <br>Django
+        <br><p style="font-size: 18px;">Assembler</p>
       </td>
     </tr>
-    <tr>
-      <td align="center" width="96">
+    <tr style="border: none;">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/mysql-original.svg" width="48" height="48" alt="MySQL" />
+          <img src="gif/html5-original.svg" width="60" height="60" alt="HTML" />
         </a>
-        <br>MySQL
+        <br><p style="font-size: 18px;">HTML</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+          <img src="gif/css3-original.svg" width="60" height="60" alt="CSS" />
         </a>
-        <br>PostgreSQL
+        <br><p style="font-size: 18px;">CSS</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/sqlite-original.svg" width="48" height="48" alt="SQLite3" />
+          <img src="gif/javascript-original.svg" width="60" height="60" alt="JavaScript" />
         </a>
-        <br>SQLite3
+        <br><p style="font-size: 18px;">JavaScript</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/gitlab-original.svg" width="48" height="48" alt="HTML" />
+          <img src="gif/rails-original-wordmark.svg" width="60" height="60" alt="RoR" />
         </a>
-        <br>CI/CD
+        <br><p style="font-size: 18px;">RoR</p>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="gif/docker-original.svg" width="60" height="60" alt="Docker" />
+          <img src="gif/django.webp" width="60" height="60" alt="Django" style="border-radius: 5px;" />
         </a>
-        <br>Docker
+        <br><p style="font-size: 18px;">Django</p>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" width="20%" style="border: none; padding: 10px;">
+        <a href="#">
+          <img src="gif/mysql-original.svg" width="60" height="60" alt="MySQL" />
+        </a>
+        <br><p style="font-size: 18px;">MySQL</p>
+      </td>
+      <td align="center" width="20%" style="border: none; padding: 10px;">
+        <a href="#">
+          <img src="gif/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
+        </a>
+        <br><p style="font-size: 18px;">PostgreSQL</p>
+      </td>
+      <td align="center" width="20%" style="border: none; padding: 10px;">
+        <a href="#">
+          <img src="gif/sqlite-original.svg" width="60" height="60" alt="SQLite3" />
+        </a>
+        <br><p style="font-size: 18px;">SQLite3</p>
+      </td>
+      <td align="center" width="20%" style="border: none; padding: 10px;">
+        <a href="#">
+          <img src="gif/gitlab-original.svg" width="60" height="60" alt="CI/CD" />
+        </a>
+        <br><p style="font-size: 18px;">CI/CD</p>
+      </td>
+      <td align="center" width="20%" style="border: none; padding: 10px;">
+        <a href="#">
+          <img src="gif/docker-original.svg" width="65" height="65" alt="Docker" />
+        </a>
+        <br><p style="font-size: 18px;">Docker</p>
       </td>
     </tr>
   </table>
@@ -158,14 +160,25 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-## <p align="center">🛠️ STATS 🛠️</p>
+<p align="center" style="font-size:34px; font-weight:bold; margin-top:-15px; margin-bottom:10px;">
+  🏆 STATS 🏆
+</p>
 
-<div style="margin-top: -20px;">
+<div style="margin-top: -35px;">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 40px; align-items: flex-start;">
-  <img src="gif/leetcode.png" width="250" style="margin-top: 50px;" />
-  <img src="gif/stack.gif" width="250" style="margin-bottom: 10px;" />
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width:100%;">
+  <a href="https://leetcode.com/u/_DimON_/" target="_blank">
+  <img src="gif/leetcode.png" width="250" style="margin-top: 50px;" alt="LeetCode Profile" />
+</a>
+  <img src="gif/stack.gif" width="310" style="margin-bottom: 10px;" />
 </div>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_DimON_?ext=heatmap" width="900px" alt="LeetCode Stats" />
+</p>
+
+<!--
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dimopster&theme=dark&no-frame=true&column=3) 
+-->
