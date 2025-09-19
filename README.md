@@ -28,7 +28,9 @@
 </div>
 
 <div>
-    <h1 align="center" style="font-size: 34px;"><strong>💻 TECHNICAL SKILLS 💻</strong></h1>
+    <summary>
+        <h1 align="center" style="font-size: 34px;"><strong>💻 TECHNICAL SKILLS 💻</strong></h1>
+    </summary>
 </div>
 
 <div style="margin-top: -35px;">
@@ -163,7 +165,9 @@
 </div>
 
 <div>
-    <h1 align="center" style="font-size: 34px;"><strong>🏆 STATS 🏆</strong></h1>
+    <summary>
+        <h1 align="center" style="font-size: 34px;"><strong>🏆 STATS 🏆</strong></h1>
+    </summary>
 </div>
 
 <div style="margin-top: -35px;">
@@ -187,7 +191,7 @@
 </div>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/_DimON_?ext=heatmap" width="680px" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/_DimON_?ext=heatmap" width="700px" alt="LeetCode Stats" />
 </p>
 
 <!--
