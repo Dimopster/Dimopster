@@ -12,7 +12,7 @@
 
 <p style=""><h2 style="border-bottom:none; font-size:28px">I’m Dmitry — and here’s my lore 👾</h2> </p>
 <div>
-    <p style="font-size:24px">
+    <h3 style="font-size:24px">
     - 🎓 University guy, still pretending I know what’s going on. . . <br>
     - 💾 C++ is not just a language, it’s a lifestyle. (yes, I dream in pointers) <br>
     - ⚡ Favorite bug-fix strategy: <code>sudo rm -rf /</code> (try this one!) <br>
@@ -20,7 +20,7 @@
     - 🧠 Who endlessly allocates memory?. . . (me 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Supervillain%20Light%20Skin%20Tone.png" 
     alt="Man Supervillain Light Skin Tone" width="25" height="25" style="vertical-align: text-bottom;" />)
-    </p>
+    </h3>
 </div>
 
 <div>
@@ -28,7 +28,7 @@
 </div>
 
 <div>
-    <p align="center" style="font-size: 34px;"><strong>💻 TECHNICAL SKILLS 💻</strong></p>
+    <h1 align="center" style="font-size: 34px;"><strong>💻 TECHNICAL SKILLS 💻</strong></h1>
 </div>
 
 <div style="margin-top: -35px;">
@@ -36,7 +36,7 @@
 </div>
 
 <div>
-    <p style="font-size: 24px;">Main programming languages:</p>
+    <h3 style="font-size: 24px;">Main programming languages:</h3>
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@
   </table>
 </div>
 
-<p style="font-size: 24px;">Additional tools:</p>
+<h3 style="font-size: 24px;">Additional tools:</h3>
 
 <div align="center">
   <table style="border-collapse: collapse; border: none; width: 100%;">
@@ -163,7 +163,7 @@
 </div>
 
 <div>
-    <p align="center" style="font-size: 34px;"><strong>🏆 STATS 🏆</strong></p>
+    <h1 align="center" style="font-size: 34px;"><strong>🏆 STATS 🏆</strong></h1>
 </div>
 
 <div style="margin-top: -35px;">
@@ -187,7 +187,7 @@
 </div>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/_DimON_?ext=heatmap" width="900px" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/_DimON_?ext=heatmap" width="680px" alt="LeetCode Stats" />
 </p>
 
 <!--
