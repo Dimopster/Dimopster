@@ -28,7 +28,7 @@
 </div>
 
 <div>
-    <summary>
+    <summary style="list-style:none;">
         <h1 align="center" style="font-size: 34px;"><strong>💻 TECHNICAL SKILLS 💻</strong></h1>
     </summary>
 </div>
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <table style="border-spacing: 90px; border: none;" border="0">
+  <table style="border-spacing: 90px; border: none;" border="0" >
     <tr>
       <td align="center" style="border: none;">
         <img src="gif/c_picture.png" width="180" />
@@ -165,7 +165,7 @@
 </div>
 
 <div>
-    <summary>
+    <summary style="list-style:none;">
         <h1 align="center" style="font-size: 34px;"><strong>🏆 STATS 🏆</strong></h1>
     </summary>
 </div>
