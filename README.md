@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif/banner.jpg" alt="Анимированный баннер" width="100%">
+  <img src="gif/banner.gif" alt="Анимированный баннер" width="100%">
 </div>
 
 <h1 align="center" style="font-size:40px">
@@ -8,9 +8,9 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="40px" style="vertical-align: text-bottom;" />
 </h1>
 
- <p style=""><h2 style="border-bottom:none; font-size:34px"> About Me 👨‍💻</h2> </p>
+ <p style=""><h2 font-size:34px"> About Me 👨‍💻</h2> </p>
 
-<p style=""><h2 style="border-bottom:none; font-size:28px">I’m Dmitry — and here’s my lore 👾</h2> </p>
+<p style=""><h2 font-size:28px">I’m Dmitry — and here’s my lore 👾</h2> </p>
 <div>
     <h3 style="font-size:24px">
     - 🎓 University guy, still pretending I know what’s going on. . . <br>
