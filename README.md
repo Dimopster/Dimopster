@@ -68,7 +68,7 @@
         </a>
         <br><p style="font-size: 18px;">Python</p>
       </td>
-      <td align="center" width="20%" style="border: none; padding: 10px;">
+      <td align="center" width="20%" padding: 10px;">
         <a href="#">
           <img src="gif/qt-original.svg" width="60" height="60" alt="Qt" />
         </a>
