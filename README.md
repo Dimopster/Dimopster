@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif/banner.gif" alt="Анимированный баннер" width="100%">
+  <img src="gif/currgif.gif" alt="Анимированный баннер" width="100%">
 </div>
 
 <h1 align="center" style="font-size:40px">
